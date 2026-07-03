@@ -44,15 +44,15 @@ const Footer = () => {
         </li>
 
         <li>
-        <a href="/nosotros" className="hover:text-cyan-400 transition">
-        Nosotros
-        </a>
+            <a href="/nosotros" className="hover:text-cyan-400 transition">
+                Nosotros
+            </a>
         </li>
 
         <li>
-        <a href="/contacto" className="hover:text-cyan-400 transition">
-        Contacto
-        </a>
+            <a href="/contacto" className="hover:text-cyan-400 transition">
+                Contacto
+            </a>
         </li>
         </ul>
         </div>
@@ -60,7 +60,7 @@ const Footer = () => {
         {/* Contacto */}
         <div>
         <h3 className="mb-4 text-lg font-semibold">
-        Contacto
+            Contacto
         </h3>
 
         <ul className="space-y-2 text-slate-400">
